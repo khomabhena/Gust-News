@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Gust News</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_build_an_app">Build An App</string>
+    <string name="title_activity_search">Search</string>
+</resources>

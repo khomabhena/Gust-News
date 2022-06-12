@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "625631979388",
+    "firebase_url": "https://gust-articles.firebaseio.com",
+    "project_id": "gust-articles",
+    "storage_bucket": "gust-articles.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625631979388:android:f3ffbf47ba168426",
+        "android_client_info": {
+          "package_name": "com.mabinc.gust"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625631979388-e3r6susqc6h2ldi1suigclnjt8a3dq18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqnzPuTc8flSnVDGCpmH36gaNm2MMsSdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625631979388-e3r6susqc6h2ldi1suigclnjt8a3dq18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

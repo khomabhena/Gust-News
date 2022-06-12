@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F0F0F0</color>
+    <color name="colorPrimaryDark">#BABABA</color>
+    <color name="colorAccent">#FDEA3B</color>
+
+    <color name="menuBack">#2B2B2B</color>
+    <color name="menuBackTransparent">#9A053438</color>
+    <color name="headline">#2B2B2B</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
